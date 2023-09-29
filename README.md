@@ -58,4 +58,4 @@ Es un lenguaje gráfico para la presentación, creación y definición de un doc
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-[Flujodetrabajo](https://github.com/DavidHonoratoFernandez/2324_SMX2_M8_UF1_A2_HonoratoFernandezDavid/blob/main/Flujo%20de%20trabajo.jpg "Flujodetrabajo")
+![Flujodetrabajo](https://github.com/DavidHonoratoFernandez/2324_SMX2_M8_UF1_A2_HonoratoFernandezDavid/blob/main/Flujo%20de%20trabajo.jpg "Flujodetrabajo")
